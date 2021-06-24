@@ -17,13 +17,14 @@ body {
 
 /* floating adv */
 .floating-adv {
+  font-size: 2rem;
   line-height: 0.6rem;
   position: fixed;
   right: 0;
   top: 50vh;
   background: white;
-  transform: rotate(270deg);
 }
+
 
 /* anchor tags */
 a {
